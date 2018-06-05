@@ -23,12 +23,12 @@ Use the command:
 
 ps-ping2.ps1(for multi target)
 ```
-> ps-ping2.ps1 targetList.txt"
+> ps-ping2.ps1 targetList.txt
 ```  
   
 ps-ping3.ps1(for single target)
 ```  
-> ps-ping3.ps1 192.168.1.1"
+> ps-ping3.ps1 192.168.1.1
 ```  
   
 ## LICENSE
