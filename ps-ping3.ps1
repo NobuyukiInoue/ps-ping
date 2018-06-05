@@ -8,7 +8,7 @@ $interval = 1000
 $repeat   = 3
 
 if (-Not($targetIP)){
-    Write-Host "Usage : list-ping3.ps1 <IP Address>"
+    Write-Host "Usage : ps-ping3.ps1 <IP Address>"
     exit
 }
 

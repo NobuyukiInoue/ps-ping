@@ -9,7 +9,7 @@ if (-Not($targetListFileName)){
     exit
 }
 
-# APサーバ
+# 宛先リスト
 #[String[]]$targetList = @('10.15.10.201', '10.15.10.247', '10.15.10.248', '10.15.10.254')
 
 $f = (Get-Content $targetListFileName) -as [string[]]

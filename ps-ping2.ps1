@@ -1,6 +1,5 @@
 param( $targetListFileName )
 
-# İ’è
 # ping‚ğÀs‚·‚éŠÔŠu(ƒ~ƒŠ•b)
 $interval = 500
 
